@@ -1,1 +1,1 @@
-# Diabetes_prediction
+# Machine Learning
